@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sumit-dev-cloud/React_Assignments.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/sumit-dev-cloud/React_Assignments.git/static/js/main.1c274a07.chunk.js",
+    "main.js.map": "/sumit-dev-cloud/React_Assignments.git/static/js/main.1c274a07.chunk.js.map",
+    "runtime-main.js": "/sumit-dev-cloud/React_Assignments.git/static/js/runtime-main.aff437a2.js",
+    "runtime-main.js.map": "/sumit-dev-cloud/React_Assignments.git/static/js/runtime-main.aff437a2.js.map",
+    "static/js/2.8bbe6630.chunk.js": "/sumit-dev-cloud/React_Assignments.git/static/js/2.8bbe6630.chunk.js",
+    "static/js/2.8bbe6630.chunk.js.map": "/sumit-dev-cloud/React_Assignments.git/static/js/2.8bbe6630.chunk.js.map",
+    "static/js/3.c30fbaf1.chunk.js": "/sumit-dev-cloud/React_Assignments.git/static/js/3.c30fbaf1.chunk.js",
+    "static/js/3.c30fbaf1.chunk.js.map": "/sumit-dev-cloud/React_Assignments.git/static/js/3.c30fbaf1.chunk.js.map",
+    "index.html": "/sumit-dev-cloud/React_Assignments.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sumit-dev-cloud/React_Assignments.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8bbe6630.chunk.js.LICENSE.txt": "/sumit-dev-cloud/React_Assignments.git/static/js/2.8bbe6630.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sumit-dev-cloud/React_Assignments.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff437a2.js",
+    "static/js/2.8bbe6630.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1c274a07.chunk.js"
+  ]
+}
