@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+  let [showParagraph, setShowParagraph] = useState(false);
+
+  const onClickHandler = () => {
+    setShowParagraph(true);
+  };
+
+  const getPara = () => {
+    if (showParagraph) {
+      return (
+        <p id="para">
+          Hello, I've learnt to use the full-stack evaluation tool. This makes
+          me so happy
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      );
+    } else {
+      return null;
+    }
+  };
+
+  return (
+    <div>
+      <button id="click" onClick={onClickHandler}>
+        click
+      </button>
+      {getPara()}
     </div>
   );
 }
